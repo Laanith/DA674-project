@@ -14,6 +14,11 @@ Coming soon...
 
 * It is suggested to run the code in a new environment.
 
+After entering the new environment, in the terminal, run:
+```
+pip install -r requirements.txt
+```
+
 
 For asynchronous advantage actor-critic, run:
 
@@ -30,10 +35,6 @@ tensorboard --logdir=summary/
 
 ## References
 - [Mnih et al., 2016, Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
-- [coreylynch/async-rl](https://github.com/coreylynch/async-rl)
-- [miyosuda/async_deep_reinforce](https://github.com/miyosuda/async_deep_reinforce)
-- [muupan/async-rl Wiki](https://github.com/muupan/async-rl/wiki)
-- [stackoverflow: Asynchronous computation in tensorflow](http://stackoverflow.com/questions/34419645/asynchronous-computation-in-tensorflow)
 
 ## Team Members
 * Aditya Suryawanshi - 210150004
